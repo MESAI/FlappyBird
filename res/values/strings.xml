@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZeptoLabTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">TAP TO START !</string>
+    <string name="keep">KEEP TAPPING !!</string>
+
+</resources>
